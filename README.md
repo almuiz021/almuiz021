@@ -35,6 +35,9 @@ interactive web applications.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=almuiz021&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=almuiz021)
+
+
 ## 📫 Contact Me
 
 - [LinkedIn](https://www.linkedin.com/in/abdulmuizghori/)
